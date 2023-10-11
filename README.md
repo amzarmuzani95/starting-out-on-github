@@ -15,3 +15,4 @@ My favorite color:
 > Green :)
 
 Thank you so much for reading! ☺
+-- Added this part below to test out pushing from CLI
